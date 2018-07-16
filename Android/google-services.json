@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970480058710",
+    "firebase_url": "https://eatingapp-96b40.firebaseio.com",
+    "project_id": "eatingapp-96b40",
+    "storage_bucket": "eatingapp-96b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970480058710:android:9badd174ebe90600",
+        "android_client_info": {
+          "package_name": "com.foodrequestapp.eatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970480058710-277pg4ballkm0qhvngc5pgpe3e5epo9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodrequestapp.eatingapp",
+            "certificate_hash": "59ea16407b7e53a511e7de4665874c8fa7d9504c"
+          }
+        },
+        {
+          "client_id": "970480058710-p4ko2bdi6s27pv7q1e81m4qetm46m3a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcePiqsg_VwRUHAardqc-qpnRdcTcZsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970480058710-p4ko2bdi6s27pv7q1e81m4qetm46m3a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
